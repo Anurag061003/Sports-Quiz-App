@@ -1,16 +1,22 @@
-# React + Vite
+<h1>Sports Quiz App</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p>A fast, interactive, and responsive Sports Quiz App built with React + Vite.
+Test your sports knowledge across multiple categories like Cricket, Tennis, UFC, and Mixed Sports with smooth UI, score tracking, and an engaging quiz flow.</p>
 
-Currently, two official plugins are available:
+<h1>🚀 Features</h1>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h5>🎯 Multiple Categories — Cricket, Tennis, UFC, Mixed Quiz</h5>
 
-## React Compiler
+<h5>⚡ Fast & Smooth UI — Built with Vite + React</h5>
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+<h5>🧠 20 Random Questions per quiz</h5>
 
-## Expanding the ESLint configuration
+<h5>⏱️ Question Timer (optional)</h5>
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<h5>📊 Score Tracking</h5>
+
+<h5>📱 Fully Responsive — Works on mobile, tablet, desktop</h5>
+
+<h5>🎨 Clean & Modern UI</h5>
+
+<h5>🔁 Replay Quiz in one click</h5>
